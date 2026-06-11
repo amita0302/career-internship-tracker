@@ -167,9 +167,9 @@ Covers:
 ## 👩‍💻 Author
 
 **Amita Singh**
-- 🎓 B.Tech CSE (AI/ML) — IMSEC, Ghaziabad (Batch 2023–27)
+- 🎓 B.Tech CS — IMSEC, Ghaziabad (Batch 2023–27)
 - 💼 HCL Software Intern | AI/ML & Cybersecurity Enthusiast
-- 🔗 [GitHub](https://github.com/amita0302) | [LinkedIn](https://linkedin.com/in/your-profile)
+- 🔗 [GitHub](https://github.com/amita0302) | [LinkedIn](https://linkedin.com/in/-amitasingh)
 
 ---
 
