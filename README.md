@@ -154,7 +154,7 @@ Password: intern123
 
 ## 🎥 Demo Video
 
-📹 [Watch 3-minute walkthrough](#) <!-- Add your Loom/YouTube link -->
+📹 https://youtu.be/fs732uTOASQ(#) <!-- Add your Loom/YouTube link -->
 
 Covers:
 - Architecture overview
