@@ -10,7 +10,7 @@ A full-featured React web application to help students track internship applicat
 
 ## 🌐 Live Demo
 
-🔗 [View Live App](https://your-deployment-link.netlify.app) <!-- Replace with your Netlify/Vercel link -->
+🔗 [View Live App](https://careerandinternship.netlify.app) <!-- Replace with your Netlify/Vercel link -->
 
 ---
 
